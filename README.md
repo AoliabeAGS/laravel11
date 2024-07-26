@@ -6,9 +6,7 @@ Clone Repositório
 ```sh
 git clone -b 
 ```
-```sh
-cd softsul
-```
+
 
 Suba os containers do projeto
 ```sh
